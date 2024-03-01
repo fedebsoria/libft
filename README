@@ -1,0 +1,21 @@
+This is the complete libft project with bonus from 42 from Malaga.
+
+I has passed paco -s with total success.
+
+I have also made a main.c so the function can be tested by a human or similar.
+
+To compile
+
+1st: make
+2nd: gcc -o main.out main.c libft.a
+3rd: ?
+4th: PROFIT
+
+DO NOT COPY (or do it, I'm a readme file, not a staff member and the coder is many thing but cop isn't one).
+Use it for inspiration so you will learn.
+
+Also you may write me to: 
+
+fsoria7@outlook.com
+
+Any feedback would be appreciated.

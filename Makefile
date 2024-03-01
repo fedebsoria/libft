@@ -6,16 +6,15 @@
 #    By: fsoria <fsoria@student.42malaga.com>       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/02/07 17:15:51 by fsoria            #+#    #+#              #
-#    Updated: 2024/02/28 15:59:25 by fsoria           ###   ########.fr        #
+#    Updated: 2024/02/28 19:52:48 by fsoria           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 CC = gcc
 
-#CFLAGS = -Wall -Werror -Wextra
+CFLAGS = -Wall -Werror -Wextra
 
-CFILES = main.c \
-ft_isalnum.c \
+CFILES = ft_isalnum.c \
 ft_isalpha.c \
 ft_isdigit.c \
 ft_isprint.c \
